@@ -18,16 +18,3 @@ To package apps for the local platform:
 ```bash
 yarn package
 ```
-
-## Developer
-
-Developer account in freelancer.com:
-
-```bash
-https://www.freelancer.com/u/fdjrodjevic
-
-5.0 (3 reviews) 3.9
-
-This is the account which we can work together.
-I will be appreciate if you hime me with this account.
-```
